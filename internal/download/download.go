@@ -19,7 +19,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/tidwall/gjson"
 
-	"github.com/Sclock/go-cqhttp/internal/base"
+	"github.com/xxyy3130/go-cqhttp/internal/base"
 )
 
 var client = newClient(time.Second * 15)

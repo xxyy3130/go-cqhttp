@@ -12,12 +12,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/Sclock/MiraiGo/utils"
+	"github.com/xxyy3130/MiraiGo/utils"
 	b14 "github.com/fumiama/go-base16384"
 	"github.com/segmentio/asm/base64"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/Sclock/go-cqhttp/internal/download"
+	"github.com/xxyy3130/go-cqhttp/internal/download"
 )
 
 const (

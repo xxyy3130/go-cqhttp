@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Sclock/go-cqhttp/internal/base"
+	"github.com/xxyy3130/go-cqhttp/internal/base"
 )
 
 // SetTitle 设置标题为 go-cqhttp `版本` `版权`

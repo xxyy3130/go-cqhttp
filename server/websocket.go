@@ -15,17 +15,17 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/Sclock/MiraiGo/utils"
+	"github.com/xxyy3130/MiraiGo/utils"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 	"gopkg.in/yaml.v3"
 
-	"github.com/Sclock/go-cqhttp/coolq"
-	"github.com/Sclock/go-cqhttp/global"
-	"github.com/Sclock/go-cqhttp/modules/api"
-	"github.com/Sclock/go-cqhttp/modules/config"
-	"github.com/Sclock/go-cqhttp/modules/filter"
-	"github.com/Sclock/go-cqhttp/pkg/onebot"
+	"github.com/xxyy3130/go-cqhttp/coolq"
+	"github.com/xxyy3130/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/modules/api"
+	"github.com/xxyy3130/go-cqhttp/modules/config"
+	"github.com/xxyy3130/go-cqhttp/modules/filter"
+	"github.com/xxyy3130/go-cqhttp/pkg/onebot"
 )
 
 type webSocketServer struct {

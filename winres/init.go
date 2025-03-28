@@ -1,4 +1,4 @@
 // Package winres 生成windows资源
 package winres
 
-//go:generate go run github.com/Sclock/go-cqhttp/winres/gen
+//go:generate go run github.com/xxyy3130/go-cqhttp/winres/gen

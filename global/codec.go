@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Sclock/go-cqhttp/internal/base"
+	"github.com/xxyy3130/go-cqhttp/internal/base"
 )
 
 // EncoderSilk 将音频编码为Silk

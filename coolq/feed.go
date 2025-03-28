@@ -1,9 +1,9 @@
 package coolq
 
 import (
-	"github.com/Sclock/MiraiGo/topic"
+	"github.com/xxyy3130/MiraiGo/topic"
 
-	"github.com/Sclock/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/global"
 )
 
 // FeedContentsToArrayMessage 将话题频道帖子内容转换为 Array Message

@@ -8,7 +8,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Sclock/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/global"
 )
 
 type intReader struct {

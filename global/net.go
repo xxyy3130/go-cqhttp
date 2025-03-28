@@ -5,7 +5,7 @@ import (
 
 	"github.com/tidwall/gjson"
 
-	"github.com/Sclock/go-cqhttp/internal/download"
+	"github.com/xxyy3130/go-cqhttp/internal/download"
 )
 
 // QQMusicSongInfo 通过给定id在QQ音乐上查找曲目信息

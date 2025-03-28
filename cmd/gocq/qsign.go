@@ -12,15 +12,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Sclock/MiraiGo/utils"
+	"github.com/xxyy3130/MiraiGo/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 
-	"github.com/Sclock/go-cqhttp/global"
-	"github.com/Sclock/go-cqhttp/internal/base"
-	"github.com/Sclock/go-cqhttp/internal/download"
-	"github.com/Sclock/go-cqhttp/modules/config"
+	"github.com/xxyy3130/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/internal/base"
+	"github.com/xxyy3130/go-cqhttp/internal/download"
+	"github.com/xxyy3130/go-cqhttp/modules/config"
 )
 
 type currentSignServer atomic.Pointer[config.SignServer]

@@ -3,7 +3,7 @@ package msg
 import (
 	"io"
 
-	"github.com/Sclock/MiraiGo/message"
+	"github.com/xxyy3130/MiraiGo/message"
 )
 
 // Poke 拍一拍

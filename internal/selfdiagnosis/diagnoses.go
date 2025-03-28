@@ -2,7 +2,7 @@
 package selfdiagnosis
 
 import (
-	"github.com/Sclock/MiraiGo/client"
+	"github.com/xxyy3130/MiraiGo/client"
 	log "github.com/sirupsen/logrus"
 )
 

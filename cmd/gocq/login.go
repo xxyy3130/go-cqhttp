@@ -10,15 +10,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Sclock/MiraiGo/client"
-	"github.com/Sclock/MiraiGo/utils"
+	"github.com/xxyy3130/MiraiGo/client"
+	"github.com/xxyy3130/MiraiGo/utils"
 	"github.com/mattn/go-colorable"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"gopkg.ilharper.com/x/isatty"
 
-	"github.com/Sclock/go-cqhttp/global"
-	"github.com/Sclock/go-cqhttp/internal/download"
+	"github.com/xxyy3130/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/internal/download"
 )
 
 var console = bufio.NewReader(os.Stdin)

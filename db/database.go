@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"hash/crc32"
 
-	"github.com/Sclock/go-cqhttp/global"
+	"github.com/xxyy3130/go-cqhttp/global"
 )
 
 type (

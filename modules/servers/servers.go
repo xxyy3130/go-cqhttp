@@ -4,8 +4,8 @@ package servers
 import (
 	"gopkg.in/yaml.v3"
 
-	"github.com/Sclock/go-cqhttp/coolq"
-	"github.com/Sclock/go-cqhttp/internal/base"
+	"github.com/xxyy3130/go-cqhttp/coolq"
+	"github.com/xxyy3130/go-cqhttp/internal/base"
 )
 
 var (
